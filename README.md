@@ -1,2 +1,2 @@
 # VanillaJS
-For Vanilla JavaScript Study
+For Vanilla JavaScript Study.
